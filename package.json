@@ -1,0 +1,23 @@
+{
+  "name": "tutorial",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongodb": "1.2.x",
+    "lodash": "1.3.x",
+    "q": "0.8.x",
+    "q-mongodb": "git://github.com/fizker/QMongoDB.git",
+    "pause": "0.0.1",
+    "loggy": "0.1.0",
+    "moment" : "2.1.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "devDependencies": {
+    
+  },
+  "scripts": {
+     
+  }
+}
